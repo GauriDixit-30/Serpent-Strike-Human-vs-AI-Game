@@ -19,11 +19,12 @@ Welcome to **Serpent Strike**, an exciting browser-based **Javascript** game whe
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/snake-showdown.git
-   cd snake-showdown
-Open index.html in any modern browser.
+   git clone https://github.com/your-username/serpent-strike.git
+   cd serpent-strike
 
-Use arrow keys to move your snake. Avoid collisions and outsmart the AI!
+>Open index.html in any modern browser.
+
+>Use arrow keys to move your snake. Avoid collisions and outsmart the AI!
 
 ## 🛠️ Tech Stack
 >HTML5 & CSS3
